@@ -1,4 +1,4 @@
-# Perceptron
+# Perceptron Algorithm for recognizing handwritten digits
 A Perceptron is an algorithm used for supervised learning of binary classifiers. Binary classifiers decide whether an input, usually represented by a series of vectors, belongs to a specific class.
 Implementation:
 - We take all the input values and multiplying them by their weights. 
